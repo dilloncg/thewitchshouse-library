@@ -1,0 +1,204 @@
+img{
+  max-width: 100%;
+}
+
+body{
+  background-image: url(lib.jpg);
+  background-repeat: repeat;
+  background-size: cover;
+  position: fixed;
+}
+
+img{
+  height: 260px;
+  margin-left: 400px;
+  margin-top: 430px;
+  position: fixed;
+}
+
+.faye{
+  height: 10px;
+  width: 10px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 130px;
+  left: 900px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye:hover{
+  transform: scale(2);
+}
+
+.faye2{
+  height: 13px;
+  width: 13px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 300px;
+  left: 500px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye2:hover{
+  transform: scale(2);
+}
+
+.faye3{
+  height: 20px;
+  width: 20px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 200px;
+  left: 700px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye3:hover{
+  transform: scale(2);
+}
+
+.faye4{
+  height: 12px;
+  width: 12px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 1030px;
+  left: 900px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye4:hover{
+  transform: scale(2);
+}
+
+.faye5{
+  height: 16px;
+  width: 16px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 100px;
+  left: 450px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye5:hover{
+  transform: scale(2);
+}
+
+.faye6{
+  height: 6px;
+  width: 6px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 600px;
+  left: 900px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye6:hover{
+  transform: scale(2);
+}
+
+.faye7{
+  height: 14px;
+  width: 14px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 700px;
+  left: 900px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye7:hover{
+  transform: scale(2);
+}
+
+.faye8{
+  height: 9px;
+  width: 9px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 500px;
+  left: 500px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye8:hover{
+  transform: scale(2);
+}
+
+.faye9{
+  height: 10px;
+  width: 10px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 1000px;
+  left: 700px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye9:hover{
+  transform: scale(2);
+}
+
+.faye10{
+  height: 7px;
+  width: 7px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 1000px;
+  left: 900px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye10:hover{
+  transform: scale(2);
+}
+
+.faye11{
+  height: 20px;
+  width: 20px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 730px;
+  left: 800px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye11:hover{
+  transform: scale(2);
+}
